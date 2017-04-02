@@ -19,6 +19,7 @@
   const self = {};
 
 
-  window.test = self;
+  // Add match lib
+  window.matchs = matchs;
 
 })(window, window.document);
